@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DenemeGrup //objelerimizi kýsaca gruplandýrýyor
+namespace BasicLessons //objelerimizi kýsaca gruplandýrýyor
 {
     public class FirstScript : MonoBehaviour
 
